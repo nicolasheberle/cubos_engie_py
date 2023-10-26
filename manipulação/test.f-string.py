@@ -1,3 +1,4 @@
+# Operador f-string, que inclui a inserção de um texto e imbuir nele variáveis ou vice e versa. 
 x = 'pão'
 y = 'de'
 z = 'alho'
