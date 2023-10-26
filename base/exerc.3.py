@@ -1,4 +1,4 @@
-#Resolva a seguinte equação utilizando variáveis:
+# Resolver a seguinte equação utilizando variáveis:
 # w = x - y
 # x = (5+7) * 2
 # y = 12/(4-2)

@@ -1,5 +1,7 @@
-#realizar a soma de variáveis
-nome = "Roberto"
-sobre_nome = "Carlos"
-nome_completo = nome + " "+ sobre_nome
-print(nome_completo)
+# Modificar o que está dentro da variável e printar ela
+agua = "solido"
+print(agua)
+agua = "liquido"
+print(agua)
+agua = "gasoso"
+print(agua)

@@ -1,4 +1,4 @@
-# mostre na tela o valor de cada variável
+# Mostrar na tela o valor de cada variável
 # w = a*b
 # a = (7-1)
 # b = g/d

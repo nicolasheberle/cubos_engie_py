@@ -1,3 +1,4 @@
+# Operador de junção de variáveis +
 x = 'pão'
 y = 'de'
 z = 'alho'
