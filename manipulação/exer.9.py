@@ -1,4 +1,3 @@
-# Exercício 09
 # Para saber se duas strings são iguais um dos métodos que temos é verificar o tamanho de caracteres de cada antes de fazer alguma
 # comparação. Utilizando esse método, descubra se as Strings abaixo tem a possibilidade de ser iguais a partir do tamanho de cada uma delas.
 # Caso 1
