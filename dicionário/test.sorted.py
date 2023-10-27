@@ -1,4 +1,4 @@
-#
+# Retorna as chaves de um dicionário, de forma ordenada como uma lista
 livros = {
     'COD345' : '1984 - George Orwell',
     'COD222' : 'Dom Quixote de la Mancha - Miguel de Cervantes',

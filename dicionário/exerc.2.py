@@ -17,6 +17,6 @@ for produto, valor in cardapio.items():
         mbn = produto
         
 if mbn:
-    print(f"O produto mais barato é {mbn} com o valor de R${mbv:.2f}")
+    print(f'O produto mais barato é {mbn} com o valor de R${mbv:.2f}')
 else:
-    print("O cardápio está vazio.")
+    print('O cardápio está vazio.')

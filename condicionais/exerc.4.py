@@ -7,6 +7,7 @@
 ldl = 45
 comorbidade = True
 
+# Condicional de comparação caso a caso
 if comorbidade:
     if ldl < 70:
         print('SAUDÁVEL')
