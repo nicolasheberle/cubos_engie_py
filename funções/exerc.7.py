@@ -1,10 +1,9 @@
 # Escreva uma função que recebe um número inteiro positivo menor ou igual que 10 e retorne o número escrito por extenso.
-
 def numero_por_extenso(numero):
     numeros_extenso = ["zero", "um", "dois", "três", "quatro", "cinco", "seis", "sete", "oito", "nove", "dez"]
-
+    
     if 0 <= numero <= 10:
-        return numeros_extenso[numero]
+        return numeros_extenso[numero] # Fazendo dessa forma, a função fica otimizada em relação a fazer um indice para apenas número
     else:
         return "Número fora do intervalo permitido."
 
