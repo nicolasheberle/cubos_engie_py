@@ -33,8 +33,11 @@ Aqui estão alguns exemplos de código Python que você encontrará neste reposi
 
 # Exemplo de uso de operadores em Python
 a = 5
+
 b = 3
+
 soma = a + b
+
 print(f"A soma de {a} e {b} é {soma}")
 
 Links relevantes:
