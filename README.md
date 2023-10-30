@@ -40,7 +40,7 @@ soma = a + b
 
 print(f"A soma de {a} e {b} é {soma}")
 
-#Links relevantes:
+# Links relevantes:
 
 https://cubos.academy
 
