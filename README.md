@@ -23,7 +23,7 @@ O repositório está organizado da seguinte forma:
 
 Para executar os exemplos e exercícios deste repositório, siga estas instruções:
 1. Clone este repositório em sua máquina local.
-2. Crie um ambiente virtual Python (recomendado) para isolar as dependências. Utilizar o Google colab é a opção mais simples e prática
+2. Crie um ambiente virtual Python (recomendado) para isolar as dependências. Utilizar o Google colab é a opção mais simples e prática.
 3. Acesse a pasta correspondente aos exemplos ou exercícios que você deseja explorar.
 4. Execute os scripts Python fornecidos.
 
