@@ -38,8 +38,9 @@ b = 3
 
 soma = a + b
 
-print(f"A soma de {a} e {b} é {soma}")
+print(f"A soma de {a} e {b} é {soma}") 
 
+Que ira resultar em: A de 5 e 3 é 8
 # Links relevantes:
 
 https://www.engie.com.br
