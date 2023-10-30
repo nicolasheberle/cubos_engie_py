@@ -43,6 +43,9 @@ print(f"A soma de {a} e {b} é {soma}")
 Links relevantes:
 
 https://cubos.academy
+
 https://www.engie.com.br
+
 https://colab.google
+
 https://jupyter.org
